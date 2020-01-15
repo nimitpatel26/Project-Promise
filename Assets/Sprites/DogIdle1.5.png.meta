@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 6fd38f92937fe6f44acaa767dcfcc305
+timeCreated: 1473610708
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DogIdle1.5_0
+    21300002: DogIdle1.5_1
+    21300004: DogIdle1.5_2
+    21300006: DogIdle1.5_3
+    21300008: DogIdle1.5_4
+    21300010: DogIdle1.5_5
+    21300012: DogIdle1.5_6
+    21300014: DogIdle1.5_7
+    21300016: DogIdle1.5_8
+    21300018: DogIdle1.5_9
+    21300020: DogIdle1.5_10
+    21300022: DogIdle1.5_11
+    21300024: DogIdle1.5_12
+    21300026: DogIdle1.5_13
+    21300028: DogIdle1.5_14
+    21300030: DogIdle1.5_15
+    21300032: DogIdle1.5_16
+    21300034: DogIdle1.5_17
+    21300036: DogIdle1.5_18
+    21300038: DogIdle1.5_19
+    21300040: DogIdle1.5_20
+    21300042: DogIdle1.5_21
+    21300044: DogIdle1.5_22
+    21300046: DogIdle1.5_23
+    21300048: DogIdle1.5_24
+    21300050: DogIdle1.5_25
+    21300052: DogIdle1.5_26
+    21300054: DogIdle1.5_27
+    21300056: DogIdle1.5_28
+    21300058: DogIdle1.5_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DogIdle1.5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7685
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7420
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7155
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6890
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6625
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6360
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6095
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5830
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5565
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5300
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5035
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4770
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4505
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4240
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3975
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3710
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3445
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3180
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2915
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2650
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2385
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2120
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1325
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DogIdle1.5_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 367
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
